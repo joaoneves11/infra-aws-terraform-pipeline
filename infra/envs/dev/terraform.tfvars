@@ -1,0 +1,1 @@
+bucket_name = "bucket-teste-dev-20240613"
